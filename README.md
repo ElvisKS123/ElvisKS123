@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Elvis SHIMWA
 
-### 🚀 Full-Stack Developer | Innovator | Problem Solver
+### 🚀 Full-Stack Developer 
 
 [![GitHub followers](https://img.shields.io/github/followers/ElvisKS123?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/ElvisKS123)
 [![GitHub stars](https://img.shields.io/github/stars/ElvisKS123?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/ElvisKS123)
