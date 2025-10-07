@@ -15,8 +15,8 @@
 ## 🌟 About Me
 
 I'm passionate about building **smart, impactful, and scalable digital solutions** that improve everyday life in Africa.  
-Currently studying at **African Leadership University (ALU)** and working on projects that blend **technology, design, and sustainability** — from digital ID systems to smart ticketing and business automation tools.
 
+Currently studying at **African Leadership University (ALU)** and working on projects that blend **technology, design, and sustainability**
 - 🔭 Building innovative solutions for African businesses and governments
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Focused on replacing manual processes with smart digital systems
