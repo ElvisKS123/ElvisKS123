@@ -4,9 +4,6 @@
 
 ### 🚀 Full-Stack Developer 
 
-[![GitHub followers](https://img.shields.io/github/followers/ElvisKS123?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/ElvisKS123)
-[![GitHub stars](https://img.shields.io/github/stars/ElvisKS123?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/ElvisKS123)
-[![Profile Views](https://komarev.com/ghpvc/?username=ElvisKS123&style=for-the-badge&color=58a6ff&labelColor=2d333b)](https://github.com/ElvisKS123)
 
 </div>
 
@@ -75,16 +72,6 @@ Currently studying at **African Leadership University (ALU)** and working on pro
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElvisKS123&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElvisKS123&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ElvisKS123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
